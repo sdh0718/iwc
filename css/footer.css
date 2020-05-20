@@ -4,7 +4,7 @@
 .footer article{margin-bottom: 0;}
 .footer .content2{border: none;}
 .footer>.footer_top{background-color: #333;}
-.footer_top .content2{display: flex; padding: 20px 0;}
+.footer_top .content2{display: flex; padding: 20px;}
 .footer_top .content2 select,.footer_top .content2 p{margin-right: 10px;}
 .footer_top .content2 select{background-color: transparent; color: #b19c5e;font-size: 12px;}
 .footer_top .content2 select option{color: black;}
